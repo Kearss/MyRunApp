@@ -1,4 +1,4 @@
-// setting input page for Pauliina to use Crud Operations. Kim Dinh 2001124.
+// setting input page for to use Crud Operations. Kim Dinh 2001124.
 import { Injectable } from '@angular/core';
 import { AngularFirestore } from '@angular/fire/firestore';
 
